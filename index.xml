@@ -33,6 +33,22 @@
     </item>
     
     <item>
+      <title>Hierarchical Bayesian spatial models for small area estimation</title>
+      <link>https://heech31.github.io/publication/papers/7_chung2020spatial/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://heech31.github.io/publication/papers/7_chung2020spatial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subspace rotations for high-dimensional outlier detection</title>
+      <link>https://heech31.github.io/publication/papers/6_chung2020outlier/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://heech31.github.io/publication/papers/6_chung2020outlier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Trace ratio optimization for high-dimensional multi-class discrimination</title>
       <link>https://heech31.github.io/publication/papers/4_ahn2020trace/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
@@ -306,14 +322,6 @@ Three
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Subspace rotations for high-dimensional outlier detection</title>
-      <link>https://heech31.github.io/publication/papers/6_chung2020outlier/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://heech31.github.io/publication/papers/6_chung2020outlier/</guid>
-      <description></description>
     </item>
     
   </channel>

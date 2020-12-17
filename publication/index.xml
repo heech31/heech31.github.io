@@ -5,12 +5,28 @@
     <link>https://heech31.github.io/publication/</link>
       <atom:link href="https://heech31.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://heech31.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://heech31.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Hierarchical Bayesian spatial models for small area estimation</title>
+      <link>https://heech31.github.io/publication/papers/7_chung2020spatial/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://heech31.github.io/publication/papers/7_chung2020spatial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subspace rotations for high-dimensional outlier detection</title>
+      <link>https://heech31.github.io/publication/papers/6_chung2020outlier/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://heech31.github.io/publication/papers/6_chung2020outlier/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Trace ratio optimization for high-dimensional multi-class discrimination</title>
@@ -49,14 +65,6 @@
       <link>https://heech31.github.io/publication/papers/1_bell2019me/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://heech31.github.io/publication/papers/1_bell2019me/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Subspace rotations for high-dimensional outlier detection</title>
-      <link>https://heech31.github.io/publication/papers/6_chung2020outlier/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://heech31.github.io/publication/papers/6_chung2020outlier/</guid>
       <description></description>
     </item>
     
