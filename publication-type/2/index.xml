@@ -5,12 +5,52 @@
     <link>https://heech31.github.io/publication-type/2/</link>
       <atom:link href="https://heech31.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://heech31.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
       <link>https://heech31.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Hierarchical Bayesian spatial models for small area estimation</title>
+      <link>https://heech31.github.io/publication/papers/2020-01-01_chung2020spatial/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://heech31.github.io/publication/papers/2020-01-01_chung2020spatial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perinatal docosahexaenoic acid supplementation improves cognition and alters brain functional organization in piglets</title>
+      <link>https://heech31.github.io/publication/papers/2020-01-01_fang2020peri/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://heech31.github.io/publication/papers/2020-01-01_fang2020peri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subspace rotations for high-dimensional outlier detection</title>
+      <link>https://heech31.github.io/publication/papers/2020-01-01_chung2020outlier/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://heech31.github.io/publication/papers/2020-01-01_chung2020outlier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The limits of homeownership: Racial capitalism, black wealth, and the appreciation gap in Atlanta</title>
+      <link>https://heech31.github.io/publication/papers/2020-01-01_markley2020atl/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://heech31.github.io/publication/papers/2020-01-01_markley2020atl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trace ratio optimization for high-dimensional multi-class discrimination</title>
+      <link>https://heech31.github.io/publication/papers/2020-01-01_ahn2020trace/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://heech31.github.io/publication/papers/2020-01-01_ahn2020trace/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Measurement error in small area estimation: functional versus structural versus naive models</title>
