@@ -33,6 +33,22 @@
     </item>
     
     <item>
+      <title>Subspace rotations for high-dimensional outlier detection</title>
+      <link>https://heech31.github.io/publication/chung-2020-outlier/2020-01-02_chung2020outlier/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://heech31.github.io/publication/chung-2020-outlier/2020-01-02_chung2020outlier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trace ratio optimization for high-dimensional multi-class discrimination</title>
+      <link>https://heech31.github.io/publication/chung-2020-outlier/2020-01-01_ahn2020trace/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://heech31.github.io/publication/chung-2020-outlier/2020-01-01_ahn2020trace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Slides</title>
       <link>https://heech31.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
@@ -162,6 +178,14 @@ Three
     </item>
     
     <item>
+      <title>Measurement error in small area estimation: functional versus structural versus naive models</title>
+      <link>https://heech31.github.io/publication/chung-2020-outlier/2019-01-01_bell2019me/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://heech31.github.io/publication/chung-2020-outlier/2019-01-01_bell2019me/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Example Project</title>
       <link>https://heech31.github.io/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -265,25 +289,6 @@ Three
 &lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>https://heech31.github.io/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://heech31.github.io/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
