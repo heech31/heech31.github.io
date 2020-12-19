@@ -5,20 +5,12 @@
     <link>https://heech31.github.io/publication/</link>
       <atom:link href="https://heech31.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 12 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://heech31.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://heech31.github.io/publication/</link>
     </image>
-    
-    <item>
-      <title>Phylogenetically informed Bayesian truncated copula graphical models for microbial association networks</title>
-      <link>https://heech31.github.io/publication/preprint/7_chung2021pibtcg/</link>
-      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://heech31.github.io/publication/preprint/7_chung2021pibtcg/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Hierarchical Bayesian spatial models for small area estimation</title>
@@ -73,6 +65,14 @@
       <link>https://heech31.github.io/publication/papers/1_bell2019me/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://heech31.github.io/publication/papers/1_bell2019me/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phylogenetically informed Bayesian truncated copula graphical models for microbial association networks</title>
+      <link>https://heech31.github.io/publication/preprint/7_chung2021pibtcg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://heech31.github.io/publication/preprint/7_chung2021pibtcg/</guid>
       <description></description>
     </item>
     
