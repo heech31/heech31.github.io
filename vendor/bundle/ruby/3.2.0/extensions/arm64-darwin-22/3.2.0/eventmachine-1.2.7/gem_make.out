@@ -1,0 +1,20 @@
+current directory: /Users/heech-air/Dropbox/Research/CV/gitpage/heech31.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/heech-air/Dropbox/Research/CV/gitpage/heech31.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230520-56713-67k3do sitelibdir\=./.gem.20230520-56713-67k3do clean
+
+current directory: /Users/heech-air/Dropbox/Research/CV/gitpage/heech31.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230520-56713-67k3do sitelibdir\=./.gem.20230520-56713-67k3do
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+ld: warning: dylib (/opt/homebrew/Cellar/ruby/3.2.2/lib/libruby.3.2.dylib) was built for newer macOS version (13.0) than being linked (11.3)
+
+current directory: /Users/heech-air/Dropbox/Research/CV/gitpage/heech31.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230520-56713-67k3do sitelibdir\=./.gem.20230520-56713-67k3do install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20230520-56713-67k3do
+
+current directory: /Users/heech-air/Dropbox/Research/CV/gitpage/heech31.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230520-56713-67k3do sitelibdir\=./.gem.20230520-56713-67k3do clean

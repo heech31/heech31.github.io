@@ -1,0 +1,20 @@
+current directory: /Users/heech-air/Dropbox/Research/CV/gitpage/heech31.github.io/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /Users/heech-air/Dropbox/Research/CV/gitpage/heech31.github.io/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230520-56713-m58ho5 sitelibdir\=./.gem.20230520-56713-m58ho5 clean
+
+current directory: /Users/heech-air/Dropbox/Research/CV/gitpage/heech31.github.io/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230520-56713-m58ho5 sitelibdir\=./.gem.20230520-56713-m58ho5
+compiling unf.cc
+linking shared-object unf_ext.bundle
+ld: warning: dylib (/opt/homebrew/Cellar/ruby/3.2.2/lib/libruby.3.2.dylib) was built for newer macOS version (13.0) than being linked (11.3)
+
+current directory: /Users/heech-air/Dropbox/Research/CV/gitpage/heech31.github.io/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230520-56713-m58ho5 sitelibdir\=./.gem.20230520-56713-m58ho5 install
+/usr/bin/install -c -m 0755 unf_ext.bundle ./.gem.20230520-56713-m58ho5
+
+current directory: /Users/heech-air/Dropbox/Research/CV/gitpage/heech31.github.io/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230520-56713-m58ho5 sitelibdir\=./.gem.20230520-56713-m58ho5 clean
