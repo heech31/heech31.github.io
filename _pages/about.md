@@ -12,8 +12,8 @@ I am an Assistant Professor in the Department of Mathematics and Statistics at U
 
 Academic Positions
 -----
-* Assistant Professor, Department of Mathematics and Statistics, UNC Charlotte, 2022 - Current
-* Postdoctoral Research Associate, Department of Statistics, Texas A&M University, 2020 - 2022
+* Assistant Professor, Dep. of Math and Stat, UNC Charlotte, 2022 - Current
+* Postdoctoral Research Associate, Dep. of Stat, Texas A&M University, 2020 - 2022
 
 Education
 -----
