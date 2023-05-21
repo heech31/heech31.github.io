@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# * **Kwon, Y.** and Zou, J. (2023). Data-OOB: Out-of-bag Estimate as a Simple and Efficient Data Value. *International Conference on Machine Learning (ICML 2023)*. [[URL]](https://arxiv.org/abs/2304.07718). [[GitHub]](https://github.com/ykwon0407/dataoob).
+<!---  * **Kwon, Y.** and Zou, J. (2023). Data-OOB: Out-of-bag Estimate as a Simple and Efficient Data Value. *International Conference on Machine Learning (ICML 2023)*. [[URL]](https://arxiv.org/abs/2304.07718). [[GitHub]](https://github.com/ykwon0407/dataoob). --->
 
 
 * **Chung, H. C.**, Gaynanova, I., Ni, Y. (2023+), Sparse semiparametric discriminant analysis for high-dimensional zero-inflated data. (Submitted)
