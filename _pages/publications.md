@@ -7,7 +7,7 @@ author_profile: true
 
 <!---  * authors (2023). title of the paper. *journal*. [[URL]](https://). [[GitHub]](https://). --->
 
-* **Chung, H. C.**, Gaynanova, I., Ni, Y. (2023+), Sparse semiparametric discriminant analysis for high-dimensional zero-inflated data. (Submitted)
+* **Chung, H. C.**, Gaynanova, I., Ni, Y. (2023+), Sparse semiparametric discriminant analysis for high-dimensional zero-inflated data. (Submitted) [[URL]](https://arxiv.org/abs/2208.03734)
 
 * Whitfield-Cargile, C. M., **Chung, H. C.**, Coleman, M. C., Cohen, N. D., Chamoun-Emanuelli, A. M., Ivanov, I., Goldsby, J. R., Davidson, L. A., Gaynanova, I., Ni, Y., Chapkin, R. S. (2023+). Integrated analysis of gut metabolome, microbiome, and exfoliome data in an equine model of intestinal injury. (Submitted)
 
