@@ -7,13 +7,14 @@ author_profile: true
 
 <!---  * authors (2023). title of the paper. *journal*. [[URL]](https://). [[GitHub]](https://). --->
 
-* **Chung, H. C.**, Gaynanova, I., Ni, Y. (2023+), Sparse semiparametric discriminant analysis for high-dimensional zero-inflated data. (Submitted) [[URL]](https://arxiv.org/abs/2208.03734)
+
+* **Chung, H. C.**, Gaynanova, I., Ni, Y. (2023+), Sparse semiparametric discriminant analysis for high-dimensional zero-inflated data. (Submitted) [[Preprint]](https://arxiv.org/abs/2208.03734)
 
 * Whitfield-Cargile, C. M., **Chung, H. C.**, Coleman, M. C., Cohen, N. D., Chamoun-Emanuelli, A. M., Ivanov, I., Goldsby, J. R., Davidson, L. A., Gaynanova, I., Ni, Y., Chapkin, R. S. (2023+). Integrated analysis of gut metabolome, microbiome, and exfoliome data in an equine model of intestinal injury. (Submitted)
 
-* **Chung, H. C.**, Datta, G. S. (2022), Bayesian spatial models for estimating means of sampled and non-sampled small areas. *Survey Methodology* 48, 463-489
+* **Chung, H. C.**, Datta, G. S. (2022), Bayesian spatial models for estimating means of sampled and non-sampled small areas. *Survey Methodology* 48, 463-489 [[Journal article]](https://www150.statcan.gc.ca/n1/pub/12-001-x/2022002/article/00012-eng.htm)
 
-* **Chung, H. C.**, Gaynanova, I., Ni, Y. (2022). Phylogenetically informed Bayesian truncated copula graphical models for microbial association networks. *The Annals of Applied Statistics* 16, 2437-2457
+* **Chung, H. C.**, Gaynanova, I., Ni, Y. (2022). Phylogenetically informed Bayesian truncated copula graphical models for microbial association networks. *The Annals of Applied Statistics* 16, 2437-2457 [[Journal article]](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-16/issue-4/Phylogenetically-informed-Bayesian-truncated-copula-graphical-models-for-microbial-association/10.1214/21-AOAS1598.short)
 
 * **Chung, H. C.**, Ahn, J. (2021). Subspace rotations for high-dimensional outlier detection. *Journal of Multivariate Analysis* 183, 104713. 
 
