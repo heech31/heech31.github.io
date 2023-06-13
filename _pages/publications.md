@@ -27,7 +27,7 @@ author_profile: true
 
 * Bell, W. R., **Chung, H. C.**, Datta, G. S., Franco, C. (2019). [Measurement error in small area estimation: functional versus structural versus naïve models.](https://www150.statcan.gc.ca/n1/pub/12-001-x/2019001/article/00005-eng.htm) *Survey Methodology* 45, 61-80.
 
-* **Chung, H. C.**, Datta, G. S., Maples, J. (2019). [Estimation of median incomes of the American states: Bayesian estimation of means of subpopulations.](https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-2427.12873) *Opportunities and Challenges for Development: Essays for Sarmila Banerjee*, ed. Bandyopadhyay, S. and Dutta, M., Springer International.
+* **Chung, H. C.**, Datta, G. S., Maples, J. (2019). [Estimation of median incomes of the American states: Bayesian estimation of means of subpopulations.](https://link.springer.com/chapter/10.1007/978-981-13-9981-7_23) *Opportunities and Challenges for Development: Essays for Sarmila Banerjee*, ed. Bandyopadhyay, S. and Dutta, M., Springer International.
 
 
 
