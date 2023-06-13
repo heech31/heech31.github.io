@@ -23,11 +23,11 @@ author_profile: true
 
 * Markley, S., Hafley T., Allums C., Holloway S., **Chung, H. C.** (2020). The limits of homeownership: Racial capitalism, black wealth, and the appreciation gap in Atlanta. *International Journal of Urban and Regional Research* 44, 310-328. [[Journal article]](https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-2427.12873)
 
-* Fang, X., Sun, W., Jeon J., Azain M., Kinder H., Ahn J., **Chung, H. C.**, Filipov, N., Zhao, Q., Rayalam S., and Park, H. (2020). Perinatal docosahexaenoic acid supplementation improves cognition and alters brain functional organization in piglets. *Nutrient* 12, 1- 22. [[Journal article]](https://www.mdpi.com/2072-6643/12/7/2090)
+* Fang, X., Sun, W., Jeon J., Azain M., Kinder H., Ahn J., **Chung, H. C.**, Filipov, N., Zhao, Q., Rayalam S., and Park, H. (2020). [[Perinatal docosahexaenoic acid supplementation improves cognition and alters brain functional organization in piglets.]](https://www.mdpi.com/2072-6643/12/7/2090) *Nutrient* 12, 1- 22.  
 
-* Bell, W. R., **Chung, H. C.**, Datta, G. S., Franco, C. (2019). [[Measurement error in small area estimation: functional versus structural versus naïve models.]] (https://www150.statcan.gc.ca/n1/pub/12-001-x/2019001/article/00005-eng.htm) *Survey Methodology* 45, 61-80.
+* Bell, W. R., **Chung, H. C.**, Datta, G. S., Franco, C. (2019). [[Measurement error in small area estimation: functional versus structural versus naïve models.]](https://www150.statcan.gc.ca/n1/pub/12-001-x/2019001/article/00005-eng.htm) *Survey Methodology* 45, 61-80.
 
-* **Chung, H. C.**, Datta, G. S., Maples, J. (2019). [[Estimation of median incomes of the American states: Bayesian estimation of means of subpopulations.]] (https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-2427.12873) *Opportunities and Challenges for Development: Essays for Sarmila Banerjee*, ed. Bandyopadhyay, S. and Dutta, M., Springer International.
+* **Chung, H. C.**, Datta, G. S., Maples, J. (2019). [[Estimation of median incomes of the American states: Bayesian estimation of means of subpopulations.]](https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-2427.12873) *Opportunities and Challenges for Development: Essays for Sarmila Banerjee*, ed. Bandyopadhyay, S. and Dutta, M., Springer International.
 
 
 
