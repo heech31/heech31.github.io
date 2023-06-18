@@ -12,12 +12,13 @@ I am an Assistant Professor in the Department of Mathematics and Statistics at U
 
 Research Interests
 -----
+* Statistical Machine Learning
+* High-dimensional data analysis
 * Anomaly detection
 * Classification
 * Graphical Models
-* High-dimensional data analysis
 * Small area estimation
-* Statistical Machine Learning
+
 
 Academic Positions
 -----
