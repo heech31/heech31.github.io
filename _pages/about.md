@@ -22,8 +22,8 @@ Research Interests
 
 Academic Positions
 -----
-* Assistant Professor, Dep. of Math and Stat, UNC Charlotte, 2022 - Current
-* Postdoctoral Research Associate, Dep. of Stat, Texas A&M University, 2020 - 2022
+* Assistant Professor, Dept. of Math & Stat, UNC Charlotte, 2022 - Current
+* Postdoctoral Research Associate, Dept. of Stat, Texas A&M University, 2020 - 2022
 
 Education
 -----
