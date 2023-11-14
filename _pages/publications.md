@@ -7,6 +7,7 @@ author_profile: true
 
 <!---  * authors (2023). title of the paper. *journal*. [[URL]](https://). [[GitHub]](https://). --->
 
+* Ahn, S., Cha, H., **Chung, H. C.**, Ahn, J. (2023+), [Monotone clustering.] (Submitted)
 
 * **Chung, H. C.**, Gaynanova, I., Ni, Y. (2023+), [Sparse semiparametric discriminant analysis for high-dimensional zero-inflated data.](https://arxiv.org/abs/2208.03734) (Submitted)
 
