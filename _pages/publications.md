@@ -7,11 +7,11 @@ author_profile: true
 
 <!---  * authors (2023). title of the paper. *journal*. [[URL]](https://). [[GitHub]](https://). --->
 
-* Ahn, S., Cha, H., **Chung, H. C.**, Ahn, J. (2023+), Monotone clustering. (Submitted)
+<!--- * Ahn, S., Cha, H., **Chung, H. C.**, Ahn, J. (2023+), Monotone clustering. (Submitted) --->
 
 * **Chung, H. C.**, Gaynanova, I., Ni, Y. (2023+), [Sparse semiparametric discriminant analysis for high-dimensional zero-inflated data.](https://arxiv.org/abs/2208.03734) (Submitted)
 
-* Whitfield-Cargile, C. M., **Chung, H. C.**, Coleman, M. C., Cohen, N. D., Chamoun-Emanuelli, A. M., Ivanov, I., Goldsby, J. R., Davidson, L. A., Gaynanova, I., Ni, Y., Chapkin, R. S. (2023+). Integrated analysis of gut metabolome, microbiome, and exfoliome data in an equine model of intestinal injury. (Submitted)
+* Whitfield-Cargile, C. M., **Chung, H. C.**, Coleman, M. C., Cohen, N. D., Chamoun-Emanuelli, A. M., Ivanov, I., Goldsby, J. R., Davidson, L. A., Gaynanova, I., Ni, Y., Chapkin, R. S. (2023+). Integrated analysis of gut metabolome, microbiome, and exfoliome data in an equine model of intestinal injury. (accpeted)
 
 * **Chung, H. C.**, Datta, G. S. (2022), [Bayesian spatial models for estimating means of sampled and non-sampled small areas.](https://www150.statcan.gc.ca/n1/pub/12-001-x/2022002/article/00012-eng.htm) *Survey Methodology* 48, 463-489
 
