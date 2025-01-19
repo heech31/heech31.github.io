@@ -13,7 +13,7 @@ author_profile: true
 
 * Chung, H. C., Gaynanova, I., Ni, Y. (2024+), [Sparse semiparametric discriminant analysis for high-dimensional zero-inflated data.](https://arxiv.org/abs/2208.03734) (submitted)
 
-* Kim, D., Park, J., Chung, H. C., Jeong, S., (2024). [Unsupervised outlier detection using random subspace and subsampling ensembles of Dirichlet process mixtures.](https://arxiv.org/abs/2401.00773) *Pattern Recognition* (to appear)
+* Kim, D., Park, J., Chung, H. C., Jeong, S., (2024). [Unsupervised outlier detection using random subspace and subsampling ensembles of Dirichlet process mixtures.](https://www.sciencedirect.com/science/article/pii/S0031320324005971) *Pattern Recognition* 156, 110846
 
 * Whitfield-Cargile, C. M., Chung, H. C., Coleman, M. C., Cohen, N. D., Chamoun-Emanuelli, A. M., Ivanov, I., Goldsby, J. R., Davidson, L. A., Gaynanova, I., Ni, Y., Chapkin, R. S. (2024). [Integrated analysis of gut metabolome, microbiome, and exfoliome data in an equine model of intestinal injury.](https://microbiomejournal.biomedcentral.com/counter/pdf/10.1186/s40168-024-01785-1.pdf) *Microbiome* 12, 74
 
