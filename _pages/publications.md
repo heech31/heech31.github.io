@@ -18,6 +18,8 @@ Note: \* indicates a student co-author
 
 * Kim, D.\*, Park, J.\*, Chung, H. C., Jeong, S. (2024). [Unsupervised outlier detection using random subspace and subsampling ensembles of Dirichlet process mixtures.](https://www.sciencedirect.com/science/article/pii/S0031320324005971) *Pattern Recognition* 156, 110846
 
+* Li, J., Chung, H.C., Okech, D., Datta, G. S. (2024). [Hierarchical Bayes Small Area Estimation from Aggregated Data using Various Spatial Models.](https://ssca.org.in/media/27_SA22122024_Bimal_GE_Gauri_S_lQJmvtv._Datta_20092024_FINAL_Finally.pdf) *Statistics and Applications* 22 (3), 449-469
+
 * Whitfield-Cargile, C. M., Chung, H. C., Coleman, M. C., Cohen, N. D., Chamoun-Emanuelli, A. M., Ivanov, I., Goldsby, J. R., Davidson, L. A., Gaynanova, I., Ni, Y., Chapkin, R. S. (2024). [Integrated analysis of gut metabolome, microbiome, and exfoliome data in an equine model of intestinal injury.](https://microbiomejournal.biomedcentral.com/counter/pdf/10.1186/s40168-024-01785-1.pdf) *Microbiome* 12, 74
 
 * Chung, H. C., Datta, G. S. (2022), [Bayesian spatial models for estimating means of sampled and non-sampled small areas.](https://www150.statcan.gc.ca/n1/pub/12-001-x/2022002/article/00012-eng.htm) *Survey Methodology* 48, 463-489
@@ -25,7 +27,6 @@ Note: \* indicates a student co-author
 * Chung, H. C., Gaynanova, I., Ni, Y. (2022). [Phylogenetically informed Bayesian truncated copula graphical models for microbial association networks.](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-16/issue-4/Phylogenetically-informed-Bayesian-truncated-copula-graphical-models-for-microbial-association/10.1214/21-AOAS1598.short) *The Annals of Applied Statistics* 16, 2437-2457
 
 * Chung, H. C., Ahn, J. (2021). [Subspace rotations for high-dimensional outlier detection.](https://www.sciencedirect.com/science/article/abs/pii/S0047259X20302943) *Journal of Multivariate Analysis* 183, 104713.
-
 
 * Ahn, J., Chung, H. C., Jeon, Y. (2020). [Trace ratio optimization for high-dimensional multiclass discrimination.](https://www.tandfonline.com/doi/abs/10.1080/10618600.2020.1807352?journalCode=ucgs20) *Journal of Computational and Graphical Statistics* 30, 192-203.
 
