@@ -27,4 +27,10 @@ Academic Positions
 
 Education
 -----
-* Ph.D in Statistics, University of Georgia
+* Ph.D in Statistics, University of Georgia, GA, USA
+* M.A. in Applied Statistics, Yonsei University, Seoul, Korea
+* B.A. in Applied Statistics, Yonsei University, Seoul, Korea
+* B.S. in Physical Education, Yonsei University, Seoul, Korea
+
+
+

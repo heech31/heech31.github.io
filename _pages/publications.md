@@ -10,11 +10,12 @@ author_profile: true
 <!--- * Ahn, S., Cha, H., **Chung, H. C.**, Ahn, J. (2024+), Monotone clustering. (Submitted) --->
 Note: \* indicates a student co-author
 
-* Beveridge, M.\*, Goldstein, Z.\*, Chung, H. C. (2025+). [A Comparison of Zero-Inflated Models for Modern Biomedical Data.](https://arxiv.org/pdf/2411.12086) (submitted)
 
 * Choi, J., Chung, H. C., Gaynanova, I., Ni, Y. (2025+). [Bayesian segmented Gaussian copula factor model for single-cell sequencing data.](https://arxiv.org/abs/2403.15983) (submitted)
 
 * Chung, H. C., Gaynanova, I., Ni, Y. (2025+), [Sparse semiparametric discriminant analysis for high-dimensional zero-inflated data.](https://arxiv.org/abs/2208.03734) (submitted)
+
+* Beveridge, M.\*, Goldstein, Z.\*, Chung, H. C. (2025). [A Comparison of Zero-Inflated Models for Modern Biomedical Data.](https://arxiv.org/pdf/2411.12086) *American Journal of Undergraduate Research* (to appear)
 
 * Kim, D.\*, Park, J.\*, Chung, H. C., Jeong, S. (2024). [Unsupervised outlier detection using random subspace and subsampling ensembles of Dirichlet process mixtures.](https://www.sciencedirect.com/science/article/pii/S0031320324005971) *Pattern Recognition* 156, 110846
 
