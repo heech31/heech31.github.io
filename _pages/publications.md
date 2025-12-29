@@ -11,7 +11,7 @@ author_profile: true
 Note: \* indicates a student co-author
 
 
-* Choi, J., Chung, H. C., Gaynanova, I., Ni, Y. (2025). [Bayesian segmented Gaussian copula factor model for single-cell sequencing data.](https://arxiv.org/abs/2403.15983) *Bayesian Analysis* (just accepted)
+* Choi, J., Chung, H. C., Gaynanova, I., Ni, Y. (2025). [Bayesian segmented Gaussian copula factor model for single-cell sequencing data.](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Bayesian-Segmented-Gaussian-Copula-Factor-Model-for-Single-Cell-Sequencing/10.1214/25-BA1559.full) *Bayesian Analysis*
 
 * Chung, H. C., Ni, Y., Gaynanova, I. (2025), [Sparse semiparametric discriminant analysis for high-dimensional zero-inflated data.](https://jmlr.org/papers/v26/24-0046.html) *Journal of Machine Learning Research* 26 (210), 1-54
 
